@@ -1,0 +1,25 @@
+.title {
+    background-color: teal;
+    margin: auto;
+}
+
+.blue-header {
+    color: darkblue;
+    background-color: teal;
+}
+
+.list1 {
+    background-color: teal;
+}
+
+.list2 {
+    background-color: red;
+}
+
+.list3 {
+    background-color: forestgreen;
+}
+
+.p {
+    background: yellow;
+}
