@@ -60,13 +60,26 @@ p {
 }
 
 .float-left {
-    float: left;
+   float: left;
     margin-right: 25px;
+    margin-bottom: 25px;
 }
+
+.static-block {
+    position: static;
+    font-size: 15px;
+}
+
+
 
 .float-right {
     float: right;
     margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+.reputation-paragraph {
+    font-size: 15px;
 }
 
 .content {
@@ -159,6 +172,15 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.media-marketing-paragraph {
+    margin-top: 5px;
+}
+
+.social-media-header {
+    text-orientation: sideways;
+    margin: auto;
 }
 
 .search-engine-optimization img {
